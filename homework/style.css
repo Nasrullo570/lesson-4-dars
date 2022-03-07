@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.header{
+    width: 100%;
+    height: 50px;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 16px;
+    
+}
+.header .text a{
+    display: block;
+    text-decoration: none;
+    margin-left: 30px;
+    padding: 8px 16px;
+    letter-spacing: 4px;
+    color: black;
+
+
+}
+.header .menu ul{
+    display: flex;
+    margin-right: 50px;
+}
+.header .menu ul li{
+    
+    list-style: none;
+
+}
+.header .menu ul li a{
+    text-decoration: none;
+    display: block;
+
+    padding: 8px 16px;
+    letter-spacing: 4px;
+    color: black;
+
+}
+.rass{
+    /* padding: 64px 0; */
+}
+.rass img{
+    width: 100%;
+    height: 100vh;
+
+}
+.navbar{
+    width: 1200px;
+    padding: 64px 0;
+    margin: 0 auto;
+    display: flex;
+
+
+}
+.navbar .rasmla{
+    /* padding: 12px 24px; */
+    
+}
+.navbar .rasmla img{
+    padding: 12px 24px;
+    opacity: .7;
+    border-radius: 4px;
+
+
+
+    
+}
+.tt{
+    padding: 12px 24px;
+}
+.tt h2{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 36px;
+
+}
+.tt h5{
+    margin: 10px 0;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 5px;
+
+}
+.tt .clas1{
+    font-size: 18px;
+    margin: 88px 0 30px 0 ;
+    line-height: 30px;
+}
+.tt .clas1 .sa{
+    display: inline-block;
+    background-color: #f1f1f1;
+    padding: 0 8px;
+    font-size: 18px;
+
+
+}
+.tt .clas2{
+    color: #757575;
+    font-size: 18px;
+    line-height: 35px;
+
+}
+hr{
+    
+    border-top: 1px solid #eee;
+    width: 1200px;
+    margin: 20px 0;
+    /* border: 1px; */
+    margin: 0 auto;
+}
+.our{
+    padding: 64px 0;
+    display: flex;
+    /* margin: 0 auto; */
+
+
+}
+.our .menu{
+
+    padding: 12px 24px;
+    margin: 10px 150px;
+
+
+}
+.our .menu h1{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    text-align: center;
+    margin: 10px 0 26px 0;
+
+
+
+}
+.our .menu h4{
+    font-weight: 400;
+    letter-spacing: 5px;
+    margin: 10px 0;
+    font-size: 20px;
+}
+.our .menu p{
+    color: #757575;
+    margin: 10px 0;
+    padding-bottom: 24px;
+}
+
+.pictur img{
+    opacity: 4px;
+    opacity: .7;
+}
+.con{
+    width: 1050px;
+    padding: 64px 0;
+    margin: 0 auto;
+}
+.con h1{
+    margin: 10px 0;
+    font-weight: 400;
+    letter-spacing: 5px;
+    font-size: 36px;
+
+}
+.con p{
+    margin: 15px 0;
+    font-size: 15px; 
+}
+.con p b{
+    font-size: 18px;
+    color: #607d8b;
+}
+.con .text{
+    font-size: 15px;
+}
+.con .text input{
+    padding: 16px 0;
+
+}
+.con .text .as{
+    padding: 16px    8px;
+    border: none;
+    border-bottom: 1px solid#ccc;
+    width: 100%;
+} 
+.con p button{
+    color: black;
+    background: #f1f1f1;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: none;
+    margin: 16px 0;
+
+
+}
+.con p button:hover{
+    background: #ccc;
+    color: black;
+}
+.foottr{
+    padding: 32px 0;
+    color: black;
+    background: #f1f1f1;
+    text-align: center;
+
+}
+.foottr a{
+    color: black;
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+.bosh h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.e {
+    display: flex;
+    /* padding-left:  1px; */
+    /* padding: 50%; */
+    
+}
+
+.bos{
+    display: flex;
+}
+.e .c{
+    padding: 10px 220px;
+}
+.b{
+    padding: 1px 150px;
+}

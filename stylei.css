@@ -1,0 +1,54 @@
+.navbar{
+    background: red;
+    height: 50px;
+
+    /* o'rtaga tushuradi textni */
+    line-height: 50px;
+
+    /* divni bir qatorga kiritish  */
+    display: flex;
+    border-radius: 10px;
+
+
+
+}
+.navbar .menu{
+    margin-left: 10px;
+}
+
+/* mishka ustiga kelsa ozgaradi */
+.navbar .menu a:hover{
+    background: wheat;
+    color: red;
+    border-radius: 4px;
+
+}
+.navbar .menu a{
+    color: wheat;
+
+    /* tegidagi chiziqni ochirish. */
+    text-decoration: none;
+    padding: 10px 20px;
+    transition: 0.5s;
+
+
+}
+.navbar .search{
+    margin-left: auto;
+    margin-right: 10px;
+}
+.navbar .search input{
+    width: 300px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 0;
+}
+  
+    
+
+
+
+
+
+
+
